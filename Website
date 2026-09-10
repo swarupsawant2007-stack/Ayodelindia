@@ -1,0 +1,1251 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="Ayodel India Private Limited - Bird spikes, bird nets, AC bird protection and animal deterrent solutions.">
+
+    <meta name="keywords"
+          content="Ayodel India, bird spikes, anti bird spikes, bird net, pigeon control, bird control, AC bird spike, monkey spike">
+
+    <meta name="author"
+          content="Ayodel India Private Limited">
+
+    <title>
+        Ayodel India Private Limited | Bird & Animal Deterrent Solutions
+    </title>
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+<!-- =========================================================
+     HEADER / NAVIGATION
+========================================================= -->
+
+<header class="site-header">
+
+    <div class="container nav-wrap">
+
+        <!-- Logo / Company Name -->
+        <a href="#home" class="brand">
+
+            <span class="brand-mark">
+                A
+            </span>
+
+            <span class="brand-text">
+                <strong>AYODEL</strong>
+                <small>INDIA PRIVATE LIMITED</small>
+            </span>
+
+        </a>
+
+
+        <!-- Mobile Menu Button -->
+        <button
+            class="menu-toggle"
+            aria-label="Open navigation menu"
+            aria-expanded="false">
+
+            ☰
+
+        </button>
+
+
+        <!-- Navigation -->
+        <nav class="nav">
+
+            <a href="#home">Home</a>
+
+            <a href="#about">About Us</a>
+
+            <a href="#products">Products</a>
+
+            <a href="#applications">Applications</a>
+
+            <a href="#gallery">Gallery</a>
+
+            <a href="#faq">FAQ</a>
+
+            <a href="#contact">Contact</a>
+
+        </nav>
+
+
+        <!-- Header CTA -->
+        <a href="#contact"
+           class="btn btn-primary nav-cta">
+
+            Get a Quote
+
+        </a>
+
+    </div>
+
+</header>
+
+
+
+<!-- =========================================================
+     MAIN WEBSITE
+========================================================= -->
+
+<main>
+
+
+<!-- =========================================================
+     HERO SECTION
+========================================================= -->
+
+<section id="home" class="hero">
+
+    <div class="container hero-grid">
+
+
+        <!-- Hero Text -->
+
+        <div class="hero-copy">
+
+            <p class="eyebrow">
+                BIRD & ANIMAL DETERRENT SOLUTIONS
+            </p>
+
+
+            <h1>
+
+                Protect Your Property.
+                <br>
+
+                <span>Keep It Bird-Free.</span>
+
+            </h1>
+
+
+            <p class="hero-text">
+
+                Practical bird spikes, protective nets and
+                deterrent solutions for residential,
+                commercial and industrial applications.
+
+            </p>
+
+
+            <div class="hero-actions">
+
+                <a href="#products"
+                   class="btn btn-primary">
+
+                    Explore Products
+
+                </a>
+
+
+                <a href="#contact"
+                   class="btn btn-light">
+
+                    Request a Quote
+
+                </a>
+
+            </div>
+
+
+            <!-- Trust / Highlights -->
+
+            <div class="trust-row">
+
+                <div>
+
+                    <strong>
+                        Product Range
+                    </strong>
+
+                    <span>
+                        Bird & animal deterrents
+                    </span>
+
+                </div>
+
+
+                <div>
+
+                    <strong>
+                        Applications
+                    </strong>
+
+                    <span>
+                        Residential to industrial
+                    </span>
+
+                </div>
+
+
+                <div>
+
+                    <strong>
+                        Enquiries
+                    </strong>
+
+                    <span>
+                        Direct customer support
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Hero Visual -->
+
+        <div class="hero-visual">
+
+            <div class="visual-card">
+
+                <div class="bird">
+
+                    ◆
+
+                </div>
+
+
+                <div class="spike-line">
+
+                </div>
+
+
+                <div class="visual-label">
+
+                    <strong>
+                        Smart Deterrent Solutions
+                    </strong>
+
+                    <span>
+                        Designed for practical installation
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     QUICK PRODUCT CATEGORIES
+========================================================= -->
+
+<section class="quick-strip">
+
+    <div class="container quick-grid">
+
+
+        <div>
+
+            <span>01</span>
+
+            <strong>
+                Bird Spikes
+            </strong>
+
+            <p>
+                For ledges, parapets and beams
+            </p>
+
+        </div>
+
+
+        <div>
+
+            <span>02</span>
+
+            <strong>
+                Bird Nets
+            </strong>
+
+            <p>
+                For balconies and open areas
+            </p>
+
+        </div>
+
+
+        <div>
+
+            <span>03</span>
+
+            <strong>
+                AC Protection
+            </strong>
+
+            <p>
+                Deterrents for outdoor AC units
+            </p>
+
+        </div>
+
+
+        <div>
+
+            <span>04</span>
+
+            <strong>
+                Custom Solutions
+            </strong>
+
+            <p>
+                For specific site conditions
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     ABOUT US
+========================================================= -->
+
+<section id="about" class="section">
+
+    <div class="container two-col">
+
+
+        <div>
+
+            <p class="eyebrow">
+                ABOUT AYODEL
+            </p>
+
+
+            <h2>
+                Simple solutions to everyday
+                bird-control problems.
+            </h2>
+
+        </div>
+
+
+
+        <div class="about-copy">
+
+            <p>
+
+                Ayodel India Private Limited provides
+                bird-control and deterrent products intended
+                to help protect buildings, equipment and
+                occupied spaces from unwanted bird and
+                animal activity.
+
+            </p>
+
+
+            <p>
+
+                Our product range is focused on practical
+                solutions that can be selected according
+                to location, surface, access and installation
+                requirements.
+
+            </p>
+
+
+            <p>
+
+                Whether the requirement is for a residential
+                balcony, commercial building, industrial
+                facility or specialist application, our
+                catalogue provides options to suit different
+                site conditions.
+
+            </p>
+
+
+            <a href="#products"
+               class="text-link">
+
+                Browse Our Product Catalogue →
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     PRODUCTS
+========================================================= -->
+
+<section id="products"
+         class="section products-section">
+
+    <div class="container">
+
+
+        <div class="section-head">
+
+            <div>
+
+                <p class="eyebrow">
+                    PRODUCT CATALOGUE
+                </p>
+
+                <h2>
+                    Our Products
+                </h2>
+
+            </div>
+
+
+            <p>
+
+                Explore our bird-control and deterrent
+                product categories.
+
+            </p>
+
+        </div>
+
+
+
+        <!-- Search / Filter -->
+
+        <div class="catalog-tools">
+
+            <input
+                type="search"
+                id="productSearch"
+                placeholder="Search products..."
+                aria-label="Search products">
+
+
+            <select
+                id="categoryFilter"
+                aria-label="Filter products">
+
+                <option value="all">
+                    All Categories
+                </option>
+
+                <option value="Bird Spikes">
+                    Bird Spikes
+                </option>
+
+                <option value="AC Protection">
+                    AC Protection
+                </option>
+
+                <option value="Bird Nets">
+                    Bird Nets
+                </option>
+
+                <option value="Animal Deterrent">
+                    Animal Deterrent
+                </option>
+
+                <option value="Custom Solutions">
+                    Custom Solutions
+                </option>
+
+            </select>
+
+        </div>
+
+
+
+        <!--
+
+            PRODUCT CARDS ARE GENERATED
+            BY script.js
+
+        -->
+
+        <div id="productGrid"
+             class="product-grid">
+
+        </div>
+
+
+        <p id="noProducts"
+           class="no-products"
+           hidden>
+
+            No matching products found.
+
+        </p>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     APPLICATIONS
+========================================================= -->
+
+<section id="applications"
+         class="section applications">
+
+    <div class="container">
+
+
+        <p class="eyebrow">
+            APPLICATIONS
+        </p>
+
+
+        <h2>
+            Protection Across Different
+            Property Types
+        </h2>
+
+
+
+        <div class="application-grid">
+
+
+            <!-- Residential -->
+
+            <article>
+
+                <span class="application-icon">
+                    ⌂
+                </span>
+
+                <h3>
+                    Residential
+                </h3>
+
+                <p>
+
+                    Balconies, terraces, window ledges,
+                    parapets and outdoor AC units.
+
+                </p>
+
+            </article>
+
+
+
+            <!-- Commercial -->
+
+            <article>
+
+                <span class="application-icon">
+                    ▦
+                </span>
+
+                <h3>
+                    Commercial
+                </h3>
+
+                <p>
+
+                    Offices, hotels, retail buildings
+                    and public spaces.
+
+                </p>
+
+            </article>
+
+
+
+            <!-- Industrial -->
+
+            <article>
+
+                <span class="application-icon">
+                    ▤
+                </span>
+
+                <h3>
+                    Industrial
+                </h3>
+
+                <p>
+
+                    Factories, warehouses, equipment
+                    and roof areas.
+
+                </p>
+
+            </article>
+
+
+
+            <!-- Special -->
+
+            <article>
+
+                <span class="application-icon">
+                    ◫
+                </span>
+
+                <h3>
+                    Special Areas
+                </h3>
+
+                <p>
+
+                    Signboards, railings, ducts and
+                    other difficult locations.
+
+                </p>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     GALLERY
+========================================================= -->
+
+<section id="gallery"
+         class="section gallery">
+
+    <div class="container">
+
+
+        <div class="section-head">
+
+            <div>
+
+                <p class="eyebrow">
+                    INSTALLATION GALLERY
+                </p>
+
+                <h2>
+                    Our Products in Use
+                </h2>
+
+            </div>
+
+
+            <p>
+
+                Replace the image placeholders below
+                with actual Ayodel product and
+                installation photographs.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="gallery-grid">
+
+
+            <!-- Gallery Image 1 -->
+
+            <div class="gallery-item">
+
+                <img
+                    src="images/product-1.jpg"
+                    alt="Ayodel bird spike product"
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+
+                <div class="gallery-placeholder">
+
+                    <strong>
+                        Product Photograph
+                    </strong>
+
+                    <small>
+                        images/product-1.jpg
+                    </small>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- Gallery Image 2 -->
+
+            <div class="gallery-item">
+
+                <img
+                    src="images/installation-1.jpg"
+                    alt="Bird spike installation"
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+
+                <div class="gallery-placeholder">
+
+                    <strong>
+                        Installation Photograph
+                    </strong>
+
+                    <small>
+                        images/installation-1.jpg
+                    </small>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- Gallery Image 3 -->
+
+            <div class="gallery-item">
+
+                <img
+                    src="images/product-2.jpg"
+                    alt="Ayodel bird deterrent product"
+                    onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+
+                <div class="gallery-placeholder">
+
+                    <strong>
+                        Product Detail
+                    </strong>
+
+                    <small>
+                        images/product-2.jpg
+                    </small>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     CALL TO ACTION
+========================================================= -->
+
+<section class="quote-banner">
+
+    <div class="container quote-wrap">
+
+
+        <div>
+
+            <p class="eyebrow">
+                NEED HELP CHOOSING?
+            </p>
+
+
+            <h2>
+                Tell us where you need protection.
+            </h2>
+
+
+            <p>
+
+                Share your application, approximate
+                quantity and location. Our team can
+                recommend a suitable product.
+
+            </p>
+
+        </div>
+
+
+        <a href="#contact"
+           class="btn btn-primary">
+
+            Get a Quote
+
+        </a>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     FAQ
+========================================================= -->
+
+<section id="faq"
+         class="section faq">
+
+    <div class="container">
+
+
+        <p class="eyebrow">
+            FAQ
+        </p>
+
+
+        <h2>
+            Frequently Asked Questions
+        </h2>
+
+
+
+        <div class="faq-list">
+
+
+            <details>
+
+                <summary>
+                    Where can bird spikes be installed?
+                </summary>
+
+                <p>
+
+                    Bird spikes can be considered for
+                    suitable ledges, parapets, beams,
+                    signboards and other surfaces where
+                    birds perch or roost, subject to
+                    site conditions and installation
+                    requirements.
+
+                </p>
+
+            </details>
+
+
+
+            <details>
+
+                <summary>
+                    Do you provide customized solutions?
+                </summary>
+
+                <p>
+
+                    Yes. You can share details of your
+                    application, location and requirement
+                    with Ayodel so that an appropriate
+                    product or arrangement can be discussed.
+
+                </p>
+
+            </details>
+
+
+
+            <details>
+
+                <summary>
+                    Can I request a product quotation?
+                </summary>
+
+                <p>
+
+                    Yes. Use the enquiry form below to
+                    provide the product, quantity and
+                    application details.
+
+                </p>
+
+            </details>
+
+
+
+            <details>
+
+                <summary>
+                    Are bird-control products suitable
+                    for commercial buildings?
+                </summary>
+
+                <p>
+
+                    Bird-control products may be used in
+                    many commercial environments, subject
+                    to the specific building, surface,
+                    access and installation conditions.
+
+                </p>
+
+            </details>
+
+
+
+            <details>
+
+                <summary>
+                    How can I contact Ayodel?
+                </summary>
+
+                <p>
+
+                    Use the quotation form or the contact
+                    details provided on this website.
+
+                </p>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     CONTACT / QUOTE FORM
+========================================================= -->
+
+<section id="contact"
+         class="section contact">
+
+    <div class="container contact-grid">
+
+
+        <!-- Contact Information -->
+
+        <div>
+
+            <p class="eyebrow">
+                CONTACT AYODEL
+            </p>
+
+
+            <h2>
+                Request a Product Quotation
+            </h2>
+
+
+            <p>
+
+                Tell us about your requirement and
+                our team can follow up with product,
+                quantity and application details.
+
+            </p>
+
+
+
+            <div class="contact-cards">
+
+
+                <div>
+
+                    <strong>
+                        Phone
+                    </strong>
+
+                    <span id="phoneDisplay">
+                        Add company phone
+                    </span>
+
+                </div>
+
+
+
+                <div>
+
+                    <strong>
+                        WhatsApp
+                    </strong>
+
+                    <span>
+                        Available for product enquiries
+                    </span>
+
+                </div>
+
+
+
+                <div>
+
+                    <strong>
+                        Email
+                    </strong>
+
+                    <span id="emailDisplay">
+                        Add company email
+                    </span>
+
+                </div>
+
+
+
+                <div>
+
+                    <strong>
+                        Location
+                    </strong>
+
+                    <span>
+                        Delhi, India
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Enquiry Form -->
+
+        <form id="quoteForm"
+              class="quote-form">
+
+
+            <label>
+
+                Name
+
+                <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    placeholder="Your name"
+                    required>
+
+            </label>
+
+
+
+            <label>
+
+                Phone / WhatsApp
+
+                <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    placeholder="Your phone number"
+                    required>
+
+            </label>
+
+
+
+            <label>
+
+                Product
+
+                <select
+                    id="productChoice"
+                    name="product">
+
+                    <option value="General enquiry">
+                        General enquiry
+                    </option>
+
+                </select>
+
+            </label>
+
+
+
+            <label>
+
+                Quantity
+
+                <input
+                    type="text"
+                    id="quantity"
+                    name="quantity"
+                    placeholder="e.g. 100 metres / 20 pieces">
+
+            </label>
+
+
+
+            <label>
+
+                Requirement
+
+                <textarea
+                    id="message"
+                    name="message"
+                    rows="5"
+                    placeholder="Tell us about your application or requirement..."></textarea>
+
+            </label>
+
+
+
+            <button
+                class="btn btn-primary"
+                type="submit">
+
+                Send Enquiry via WhatsApp
+
+            </button>
+
+
+            <p class="form-note">
+
+                Your enquiry will open WhatsApp with
+                the information entered above.
+
+            </p>
+
+        </form>
+
+    </div>
+
+</section>
+
+
+</main>
+
+
+
+<!-- =========================================================
+     FOOTER
+========================================================= -->
+
+<footer>
+
+    <div class="container footer-grid">
+
+
+        <!-- Company -->
+
+        <div>
+
+            <div class="brand footer-brand">
+
+                <span class="brand-mark">
+                    A
+                </span>
+
+                <span>
+
+                    <strong>
+                        AYODEL
+                    </strong>
+
+                    <small>
+                        INDIA PRIVATE LIMITED
+                    </small>
+
+                </span>
+
+            </div>
+
+
+            <p>
+
+                Bird and animal deterrent solutions
+                for residential, commercial and
+                industrial applications.
+
+            </p>
+
+        </div>
+
+
+
+        <!-- Quick Links -->
+
+        <div>
+
+            <strong>
+                Quick Links
+            </strong>
+
+            <a href="#about">
+                About Us
+            </a>
+
+            <a href="#products">
+                Products
+            </a>
+
+            <a href="#applications">
+                Applications
+            </a>
+
+            <a href="#gallery">
+                Gallery
+            </a>
+
+            <a href="#contact">
+                Contact
+            </a>
+
+        </div>
+
+
+
+        <!-- Business Details -->
+
+        <div>
+
+            <strong>
+                Contact
+            </strong>
+
+            <span>
+                Delhi, India
+            </span>
+
+            <span>
+                Phone: Add number
+            </span>
+
+            <span>
+                Email: Add email
+            </span>
+
+        </div>
+
+    </div>
+
+
+
+    <div class="container copyright">
+
+        © <span id="year"></span>
+        Ayodel India Private Limited.
+        All rights reserved.
+
+    </div>
+
+</footer>
+
+
+
+<!-- =========================================================
+     JAVASCRIPT
+========================================================= -->
+
+<script src="script.js"></script>
+
+
+</body>
+</html>
+```
